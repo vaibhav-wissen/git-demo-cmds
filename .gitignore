@@ -36,3 +36,6 @@ $RECYCLE.BIN/
 
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
+
+# does not ignore the README.md file
+!README.md
